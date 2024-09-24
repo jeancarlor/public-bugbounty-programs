@@ -9607,6 +9607,14 @@
       ]
     },
     {
+      "name": "National Critical Information Infrastructure Protection Centre (NCIIPC)",
+      "url": "https://nciipc.gov.in/",
+      "bounty": false,
+      "domains": [
+        "gov.in"
+      ]
+    },
+    {
       "name": "Zynga",
       "url": "https://www.zynga.com/security/whitehats/",
       "bounty": false,
